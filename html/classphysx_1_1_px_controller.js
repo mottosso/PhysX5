@@ -1,0 +1,28 @@
+var classphysx_1_1_px_controller =
+[
+    [ "getActor", "classphysx_1_1_px_controller.html#a7565ec5901d88f296b9d560b7d00b376", null ],
+    [ "getContactOffset", "classphysx_1_1_px_controller.html#a4c10d6f7c9cbd94f48967fb7c07e7dbc", null ],
+    [ "getFootPosition", "classphysx_1_1_px_controller.html#a7ca8b702d57b5cfdf1d77b1bab3660fa", null ],
+    [ "getNonWalkableMode", "classphysx_1_1_px_controller.html#a0c5c348030652cf78cd16c2121cb5dab", null ],
+    [ "getPosition", "classphysx_1_1_px_controller.html#a494abac8a2fc99d123fd17591dad5e35", null ],
+    [ "getScene", "classphysx_1_1_px_controller.html#aeea99cdd2e689ff2595b1ed6908cc630", null ],
+    [ "getSlopeLimit", "classphysx_1_1_px_controller.html#afe41bd5e2b8796d0a0f098948de0cc58", null ],
+    [ "getState", "classphysx_1_1_px_controller.html#a28a8bdf3f2d95a3b1e0e6f3f7963b427", null ],
+    [ "getStats", "classphysx_1_1_px_controller.html#acb248c9e68a07b888a8a7ef2fefde1fa", null ],
+    [ "getStepOffset", "classphysx_1_1_px_controller.html#ac30fa12ec02c96338137416f2ba200ee", null ],
+    [ "getType", "classphysx_1_1_px_controller.html#a3f116ab536e06bed01bb1de11bda1ec2", null ],
+    [ "getUpDirection", "classphysx_1_1_px_controller.html#a83a49f8e97f8161632e42cb6b3b4c651", null ],
+    [ "getUserData", "classphysx_1_1_px_controller.html#ae20dc0c08dac894b44bf650165499d6a", null ],
+    [ "invalidateCache", "classphysx_1_1_px_controller.html#a79abec00983db8773ee33d5cd0046788", null ],
+    [ "move", "classphysx_1_1_px_controller.html#a3dbb70a0a3d352d3eae9059721a5961f", null ],
+    [ "release", "classphysx_1_1_px_controller.html#afef3cfba77ba2095030cc7a3c74a6d86", null ],
+    [ "resize", "classphysx_1_1_px_controller.html#a78b56d584682afe935d6ef5e90c920c8", null ],
+    [ "setContactOffset", "classphysx_1_1_px_controller.html#a9d05132215105e1246717cf9270c6fe9", null ],
+    [ "setFootPosition", "classphysx_1_1_px_controller.html#ab85b260070991ccc812754a7b345eef5", null ],
+    [ "setNonWalkableMode", "classphysx_1_1_px_controller.html#a5c9d11f4679afd8847d220b9a7caa0f2", null ],
+    [ "setPosition", "classphysx_1_1_px_controller.html#acc4511f050b59ee13a89f5e332338c8d", null ],
+    [ "setSlopeLimit", "classphysx_1_1_px_controller.html#aad69ae56c33d577f236e6193520c700f", null ],
+    [ "setStepOffset", "classphysx_1_1_px_controller.html#a3b8ef55d309b016dbacf30609a09f915", null ],
+    [ "setUpDirection", "classphysx_1_1_px_controller.html#a37ae3048fdd54a53728b4429fdafe3ad", null ],
+    [ "setUserData", "classphysx_1_1_px_controller.html#a0daed7e840ca23390e0ad64e09bb3d4b", null ]
+];
